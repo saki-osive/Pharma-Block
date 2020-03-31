@@ -1,0 +1,10 @@
+{
+    "name": "pii-network",
+    "description": "A valid Business Network Card",
+    "businessNetwork": "pii-network",
+    "enrollmentId": "admin",
+    "enrollmentSecret": "adminpw",
+    "roles": [
+
+    ]
+}
